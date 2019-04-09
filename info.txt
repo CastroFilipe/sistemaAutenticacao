@@ -1,0 +1,2 @@
+npm install - instalar as dependencias.
+npm start - incia o servidor na porta 3001
